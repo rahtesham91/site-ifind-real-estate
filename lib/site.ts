@@ -159,16 +159,6 @@ export const team: TeamMember[] = [
     languages: ["English", "Urdu", "Hindi"],
   },
   {
-    slug: "dario-c",
-    name: "Dario C.",
-    role: "Real Estate Consultant",
-    photo: "/team/dario-c-v5.webp",
-    brn: "100955",
-    email: "dario@ifindrealestates.com",
-    phone: "+971 58 517 1717",
-    languages: ["Italian", "English", "Farsi", "French", "German"],
-  },
-  {
     slug: "ishtiaq-ahmed",
     name: "Ishtiaq Ahmed",
     role: "Property Consultant – Secondary Market",
